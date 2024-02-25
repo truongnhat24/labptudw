@@ -1,4 +1,4 @@
-var student = {
+let student = {
   firstName: "Jane", 
   lastName: "Doe",
   age: 38,
@@ -8,8 +8,8 @@ var student = {
   }
 },
 student2 = {
-  firstName: "Jane", 
-  lastName: "Doe",
+  firstName: "Bonnie", 
+  lastName: "Claw",
   age: 28,
   height: 170,
   fullName: function () {
@@ -17,8 +17,8 @@ student2 = {
   }
 },
 student3 = {
-  firstName: "Jane", 
-  lastName: "Doe",
+  firstName: "Ivan", 
+  lastName: "Rock",
   age: 19,
   height: 170,
   fullName: function () {
@@ -26,8 +26,8 @@ student3 = {
   }
 },
 student4 = {
-  firstName: "Jane", 
-  lastName: "Doe",
+  firstName: "Nicholas", 
+  lastName: "Cage",
   age: 23,
   height: 170,
   fullName: function () {

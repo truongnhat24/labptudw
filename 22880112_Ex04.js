@@ -1,8 +1,8 @@
 function average(n) {
-  var sum = 0;
+  let sum = 0;
   console.log("The average of");
   n.forEach(a => {
-    sum += a
+    sum += a;
     console.log(a);
   });
   console.log("is: " + sum/(n.length));

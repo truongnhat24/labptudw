@@ -1,7 +1,7 @@
 function printFibonacci (n) {
-  var before1 = 0,
+  let before1 = 0,
       before2 = 0;
-  for (var i = 0; i < n; i++) {
+  for (let i = 0; i < n; i++) {
     if (i < 2) {
       num = i;
     } else {
